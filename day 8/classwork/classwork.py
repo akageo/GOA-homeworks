@@ -57,5 +57,3 @@ print(pushups == target_pushups or squats == target_squats)
 #or more version
 
 print(pushups >= target_pushups or squats >= target_squats)
-
-
